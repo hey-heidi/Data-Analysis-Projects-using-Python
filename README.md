@@ -1,10 +1,12 @@
 # Data-Analysis-Project-using-Python
 
-#### These files are demonstrations of what I have learned from the Data Science and Machine Learning: Making Data-Driven Decisions Certificate Program by the Massachusetts Institute of Technology, Schwarzman College of Computing, IDSS in collaboration with Great Learning.
+😊 Hi, I'm Hedi. Hope you're well!
+
+#### These files are demonstrations of what I have learned from the Data Science and Machine Learning: Making Data-Driven Decisions Certificate Program by the Massachusetts Institute of Technology, Schwarzman College of Computing, IDSS in collaboration with Great Learning.🏅
 
 ## Assignments:
 
-### Project 1 - Pima Indians Diabetes Analysis
+### 🍬 Project 1 - Pima Indians Diabetes Analysis
 
 **Course: Foundations of Data Science**
 
@@ -14,7 +16,7 @@ To analyze different aspects of Diabetes in the Pima Indians tribe.
 Descriptive Statistics, Data Visualization, EDA
 
 
-### Project 2 - Netflix Movie Recommendation
+### 🍒 Project 2 - Netflix Movie Recommendation
 
 **Course: Recommendation Systems**
 
@@ -24,7 +26,7 @@ The objective of this project is to build a recommendation system to recommend m
 Collaborative filtering, Matrix factorization, Recommendation systems
 
 
-### Project 3 - New York Taxi Trip Duration Prediction
+### 🍡 Project 3 - New York Taxi Trip Duration Prediction
 
 **Course: Predictive Analytics**
 
