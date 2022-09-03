@@ -1,4 +1,4 @@
-# Data-Analysis-Project-using-Python
+# Data-Analysis-Projects-using-Python
 
 😊 Hi, I'm Hedi. Hope you're well!
 
