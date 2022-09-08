@@ -4,7 +4,7 @@
 
 #### These files are demonstrations of what I have learned from the Data Science and Machine Learning: Making Data-Driven Decisions Certificate Program by the Massachusetts Institute of Technology, Schwarzman College of Computing, IDSS in collaboration with Great Learning.🏅
 
-💡 The problem Statements contain descriptions, questions and evaluations for each project.
+💡 The Problem Statements contain `descriptions`, `questions` and `evaluations` for each project.
 
 ## Assignments:
 
