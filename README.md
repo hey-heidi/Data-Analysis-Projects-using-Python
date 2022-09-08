@@ -26,7 +26,7 @@ Descriptive Statistics, Data Visualization, EDA
 <br>
 <br>
   
-  #### 2️⃣ [Project - Netflix Movie Recommendation]()
+  #### 2️⃣ [Project - Netflix Movie Recommendation](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Hedi%20Wang_RecommendationSystems.ipynb)
 
 **Course: Recommendation Systems**
 
@@ -39,7 +39,7 @@ Collaborative filtering, Matrix factorization, Recommendation systems
 <br>
 <br>
   
-  #### 3️⃣ [Project - New York Taxi Trip Duration Prediction]()
+  #### 3️⃣ [Project - New York Taxi Trip Duration Prediction](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/HediWang_PredictiveAnalytics.ipynb)
 
 **Course: Predictive Analytics**
 
