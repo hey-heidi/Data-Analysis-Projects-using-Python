@@ -22,6 +22,7 @@ To analyze different aspects of Diabetes in the Pima Indians tribe.
 **Skills and Tools:**
 Descriptive Statistics, Data Visualization, EDA
 
+***[Problem Statement 1](https://drive.google.com/file/d/1uGiJ_9mZpeRZlOAV3NddlL2zYkAjQx7M/view?usp=sharing)***
 
 #### 2️⃣ `Project - Netflix Movie Recommendation`
 
@@ -46,6 +47,4 @@ Predictive modelling, Feature Engineering, Regression
 <details>
   <summary><h3> 📚 Case Studies </h3></summary>
 </details>
-
-
 
