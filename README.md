@@ -13,7 +13,7 @@
   💡 The **Problem Statements** contain `descriptions`, `questions` and `evaluations` for each project.
 <br/>
 <br/>
-#### 1️⃣ `Project - Pima Indians Diabetes Analysis`
+  #### 1️⃣ `Project - Pima Indians Diabetes Analysis`
 
 **Course: Foundations of Data Science**
 
@@ -23,8 +23,10 @@ To analyze different aspects of Diabetes in the Pima Indians tribe.
 Descriptive Statistics, Data Visualization, EDA
 
 ***[Problem Statement 1](https://drive.google.com/file/d/1uGiJ_9mZpeRZlOAV3NddlL2zYkAjQx7M/view?usp=sharing)***
-
-#### 2️⃣ `Project - Netflix Movie Recommendation`
+<br>
+<br>
+  
+  #### 2️⃣ `Project - Netflix Movie Recommendation`
 
 **Course: Recommendation Systems**
 
@@ -33,8 +35,11 @@ The objective of this project is to build a recommendation system to recommend m
 **Skills and Tools:**
 Collaborative filtering, Matrix factorization, Recommendation systems
 
-
-#### 3️⃣ `Project - New York Taxi Trip Duration Prediction`
+***[Problem Statement 2](https://drive.google.com/file/d/18snbO1AQQ_dxh8bC8zjt3DjRPwQqy7Z-/view?usp=sharing)***
+<br>
+<br>
+  
+  #### 3️⃣ `Project - New York Taxi Trip Duration Prediction`
 
 **Course: Predictive Analytics**
 
@@ -42,6 +47,10 @@ The objective of this Project is to build a predictive model, which will help in
 
 **Skills and Tools:**
 Predictive modelling, Feature Engineering, Regression
+
+***[Problem Statement 3](https://drive.google.com/file/d/1wICGhA0Xq4NYnhsRRxkjm1o3qO3Oa97o/view?usp=sharing)***
+<br>
+<br>
 </details>
 
 <details>
