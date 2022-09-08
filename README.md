@@ -4,12 +4,16 @@
 
 #### These files are demonstrations of what I have learned from the Data Science and Machine Learning: Making Data-Driven Decisions Certificate Program by the Massachusetts Institute of Technology, Schwarzman College of Computing, IDSS in collaboration with Great Learning.🏅
 
-💡 The Problem Statements contain `descriptions`, `questions` and `evaluations` for each project.
+`Please Note: All my personal work in collaboration with Great Learning is permitted by the program advisor to be displayed only on my own GitHub account. The unauthorized use or distribution of any file in this repository is strictly prohibited.`
+
 
 <details>
   <summary><h3> ✍️ Assignments </h3></summary>
-
-#### 🍬 `Project 1 - Pima Indians Diabetes Analysis`
+  
+  💡 The **Problem Statements** contain `descriptions`, `questions` and `evaluations` for each project.
+<br/>
+<br/>
+#### 1️⃣ `Project - Pima Indians Diabetes Analysis`
 
 **Course: Foundations of Data Science**
 
@@ -19,7 +23,7 @@ To analyze different aspects of Diabetes in the Pima Indians tribe.
 Descriptive Statistics, Data Visualization, EDA
 
 
-#### 🍒 `Project 2 - Netflix Movie Recommendation`
+#### 2️⃣ `Project - Netflix Movie Recommendation`
 
 **Course: Recommendation Systems**
 
@@ -29,7 +33,7 @@ The objective of this project is to build a recommendation system to recommend m
 Collaborative filtering, Matrix factorization, Recommendation systems
 
 
-#### 🍡 `Project 3 - New York Taxi Trip Duration Prediction`
+#### 3️⃣ `Project - New York Taxi Trip Duration Prediction`
 
 **Course: Predictive Analytics**
 
