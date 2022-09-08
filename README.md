@@ -6,9 +6,10 @@
 
 💡 The Problem Statements contain `descriptions`, `questions` and `evaluations` for each project.
 
-## Assignments:
+<details>
+  <summary><h3> ✍️ Assignments </h3></summary>
 
-### 🍬 Project 1 - Pima Indians Diabetes Analysis
+#### 🍬 `Project 1 - Pima Indians Diabetes Analysis`
 
 **Course: Foundations of Data Science**
 
@@ -18,7 +19,7 @@ To analyze different aspects of Diabetes in the Pima Indians tribe.
 Descriptive Statistics, Data Visualization, EDA
 
 
-### 🍒 Project 2 - Netflix Movie Recommendation
+#### 🍒 `Project 2 - Netflix Movie Recommendation`
 
 **Course: Recommendation Systems**
 
@@ -28,7 +29,7 @@ The objective of this project is to build a recommendation system to recommend m
 Collaborative filtering, Matrix factorization, Recommendation systems
 
 
-### 🍡 Project 3 - New York Taxi Trip Duration Prediction
+#### 🍡 `Project 3 - New York Taxi Trip Duration Prediction`
 
 **Course: Predictive Analytics**
 
@@ -36,9 +37,11 @@ The objective of this Project is to build a predictive model, which will help in
 
 **Skills and Tools:**
 Predictive modelling, Feature Engineering, Regression
+</details>
 
-## Case Studies:
-
+<details>
+  <summary><h3> 📚 Case Studies </h3></summary>
+</details>
 
 
 
