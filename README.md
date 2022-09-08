@@ -13,7 +13,7 @@
   💡 The **Problem Statements** contain `descriptions`, `questions` and `evaluations` for each project.
 <br/>
 <br/>
-  #### 1️⃣ `Project - Pima Indians Diabetes Analysis`
+  #### 1️⃣ [Project - Pima Indians Diabetes Analysis](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Notebook%2BTemplate%2B-%2BPima%2BIndians%2BDiabetes%2BAnalysis.ipynb)
 
 **Course: Foundations of Data Science**
 
@@ -26,7 +26,7 @@ Descriptive Statistics, Data Visualization, EDA
 <br>
 <br>
   
-  #### 2️⃣ `Project - Netflix Movie Recommendation`
+  #### 2️⃣ [Project - Netflix Movie Recommendation]()
 
 **Course: Recommendation Systems**
 
@@ -39,7 +39,7 @@ Collaborative filtering, Matrix factorization, Recommendation systems
 <br>
 <br>
   
-  #### 3️⃣ `Project - New York Taxi Trip Duration Prediction`
+  #### 3️⃣ [Project - New York Taxi Trip Duration Prediction]()
 
 **Course: Predictive Analytics**
 
