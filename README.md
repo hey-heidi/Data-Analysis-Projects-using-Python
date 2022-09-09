@@ -13,7 +13,7 @@
   💡 The **Problem Statements** contain `descriptions`, `questions` and `evaluations` for each project.
 <br/>
 <br/>
-  #### 1️⃣ [Project - Pima Indians Diabetes Analysis](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Notebook%2BTemplate%2B-%2BPima%2BIndians%2BDiabetes%2BAnalysis.ipynb)
+  #### 1️⃣ [Project - Pima Indians Diabetes Analysis](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Project%201%20-%20Pima%20Indians%20Diabetes%20Analysis.ipynb)
 
 **Course: Foundations of Data Science**
 
@@ -26,7 +26,7 @@ Descriptive Statistics, Data Visualization, EDA
 <br>
 <br>
   
-  #### 2️⃣ [Project - Netflix Movie Recommendation](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Hedi%20Wang_RecommendationSystems.ipynb)
+  #### 2️⃣ [Project - Netflix Movie Recommendation](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Project%202%20-%20Netflix%20Movie%20Recommendation.ipynb)
 
 **Course: Recommendation Systems**
 
@@ -39,7 +39,7 @@ Collaborative filtering, Matrix factorization, Recommendation systems
 <br>
 <br>
   
-  #### 3️⃣ [Project - New York Taxi Trip Duration Prediction](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/HediWang_PredictiveAnalytics.ipynb)
+  #### 3️⃣ [Project - New York Taxi Trip Duration Prediction](https://github.com/HediWork/Data-Analysis-Projects-using-Python/blob/main/Project%203%20-%20New%20York%20Taxi%20Trip%20Duration%20Prediction.ipynb)
 
 **Course: Predictive Analytics**
 
