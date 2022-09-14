@@ -4,7 +4,7 @@
 
 #### These files are demonstrations of what I have learned from the Data Science and Machine Learning: Making Data-Driven Decisions Certificate Program by the Massachusetts Institute of Technology, Schwarzman College of Computing, IDSS in collaboration with Great Learning.🏅
 
-`Please Note: All my personal work in collaboration with Great Learning is permitted by the program advisor to be displayed only on my own GitHub account. The unauthorized use or distribution of any file in this repository is strictly prohibited.`
+`Please Note: All my personal work in collaboration with Great Learning is permitted by the program advisor to be displayed ONLY on my own GitHub account. The purpose of it is to display my personal work to recruiters. The unauthorized use or distribution of any file in this repository is strictly prohibited.`
 
 
 <details>
